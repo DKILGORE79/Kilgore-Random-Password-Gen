@@ -28,7 +28,7 @@ This challenge involved generating a random password based on a set of user sele
 
 ## Installation
 
-open webpage 
+open webpage https://dkilgore79.github.io/Kilgore-Random-Password-Gen/ and press the big red button!
 
 ## Credits
 
